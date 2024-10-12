@@ -1,8 +1,12 @@
 -General Steps-
-Predict the next word in the sequence
-Feed old input plus a new output word as the next input
-Make the output a one-hot encoded label over entire corpus of desired text outputs
-Utilize categorical cross entropy loss function as the output will be multi-class
+
+1-Predict the next word in the sequence
+
+2-Feed old input plus a new output word as the next input
+
+3-Make the output a one-hot encoded label over entire corpus of desired text outputs
+
+4-Utilize categorical cross entropy loss function as the output will be multi-class
 
 Model Architecture: Bi-LSTM, Embedding
 
