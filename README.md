@@ -16,4 +16,4 @@ Input = "i am just a model"
 
 Output = "i am just a model little bit more just a little bit more just a club secret question watch watch depressed...ahhaha escape drums paris"
 
-I mean, bro vibin' 
+I mean, bro is vibin' 
